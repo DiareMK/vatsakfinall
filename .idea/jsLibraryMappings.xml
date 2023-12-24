@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <excludedPredefinedLibrary name="vatsak1/src/node_modules" />
+    <excludedPredefinedLibrary name="vatsak1Finally/node_modules" />
+    <excludedPredefinedLibrary name="vatsak1Finally/src/node_modules" />
   </component>
 </project>
